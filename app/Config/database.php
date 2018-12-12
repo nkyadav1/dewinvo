@@ -71,10 +71,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' 		 => '',
-		'login'      => '',
-		'password'   => '',
-		'database'   => '',
+		'host' 		 => 'backpack.c5wy0ajegmus.us-east-2.rds.amazonaws.com',
+		'login'      => 'backpack',
+		'password'   => 'backpack',
+		'database'   => 'deewtouch',
 		'prefix'     => '',
 		'encoding'   => 'utf8',
 	);
